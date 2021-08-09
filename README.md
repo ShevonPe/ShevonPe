@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShevonPe)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShevonPe)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShevonPe)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShevonPe&show_icons=true&count_private=true)  
 
