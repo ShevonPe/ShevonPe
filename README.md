@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
 ### Hi there 👋, My name is Shevon
 ![](https://pbs.twimg.com/profile_banners/311309988/1568185727/1500x500)
 
@@ -40,3 +41,4 @@ Here are some ideas to get you started:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShevonPe)  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tlezztftn5yslaogwgwx72y&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+</p>
