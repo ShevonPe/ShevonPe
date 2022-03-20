@@ -32,16 +32,17 @@ Here are some ideas to get you started:
 <!--
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 -->
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShevonPe)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShevonPe)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShevonPe)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShevonPe&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShevonPe)  
--->
-![GitHub metrics](https://metrics.lecoq.io/ShevonPe)  
 
+![GitHub metrics](https://metrics.lecoq.io/ShevonPe)  
+-->
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShevonPe)  
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tlezztftn5yslaogwgwx72y&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
