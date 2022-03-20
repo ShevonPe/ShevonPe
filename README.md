@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <p align="center">
 ### Hi there 👋, My name is Shevon
   
 </p>
-
+-->
 ![](https://pbs.twimg.com/profile_banners/311309988/1568185727/1500x500)
 
 
@@ -28,9 +29,9 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/ShevonPe)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShevonPe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ShevonPe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ShevonPe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Shevon_Perera/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shevon_Perera)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Perera2000)  
-
+<!--
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
+-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShevonPe)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShevonPe)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -42,6 +43,6 @@ Here are some ideas to get you started:
 ![GitHub metrics](https://metrics.lecoq.io/ShevonPe)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShevonPe)  
-
+<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tlezztftn5yslaogwgwx72y&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+-->
