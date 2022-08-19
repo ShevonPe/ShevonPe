@@ -1,13 +1,14 @@
 
 <p align="center">
-<img src="./assets/ferris.gif" />
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<img src="./assets/ferris.gif" />
   <!-- <img src="./assets/Hi.gif" width="35" /> -->
 </p>
 
 <!-- <h1 align="center"> Hi there  <img src="./assets/Hi.gif" width="35" /></h1> -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=It's+Shevon+Perera" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=It's+Shevon+Perera" alt="Typing SVG" /></a>
+</p><p align="center">Not the smol crabbie, I'm more like this</p>
 <!--
 **ShevonPe/ShevonPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
