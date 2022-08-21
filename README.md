@@ -132,3 +132,7 @@ if __name__ == '__main__':
 
 <!-- ![](https://pbs.twimg.com/profile_banners/311309988/1568185727/1500x500) -->
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
