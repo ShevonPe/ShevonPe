@@ -126,7 +126,7 @@ if __name__ == '__main__':
 <a href="https://github.com/ShevonPe/ShevonPe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShevonPe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-  <a href="https://github.com/ShevonPe/ShevonPe"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShevonPe&bg_color=1d1f21&color=ffffff&line=c9cacc&point=c9cacc&hide_border=false" /></a>
+ <!-- <a href="https://github.com/ShevonPe/ShevonPe"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShevonPe&bg_color=1d1f21&color=ffffff&line=c9cacc&point=c9cacc&hide_border=false" /></a> -->
   <a href="https://github.com/ShevonPe/ShevonPe"><img alt="Here's a photograph I've taken of colombo" src="https://pbs.twimg.com/profile_banners/311309988/1568185727/1500x500" /></a>
 </p>
 
